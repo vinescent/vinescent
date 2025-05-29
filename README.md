@@ -2,7 +2,7 @@
 - 👀 I’m interested in DCS.
 - 🌱 I’m currently learning C++.
 - 💞️ I’m looking to collaborate on nothing yet.
-- 📫 How to reach me: jshaurya21@gamil.com (expect a reply within 2 days).
+- 📫 How to reach me: jshaurya21@gamil.com (expect a reply within 2 days, or never).
 - ⚡ Fun fact: I enjoy flight sims? (idk what to put here).
 
 <!---
