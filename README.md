@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning C++.
 - 💞️ I’m looking to collaborate on nothing yet.
 - 📫 How to reach me: jshaurya21@gamil.com (expect a reply within 2 days).
-- 😄 Pronouns: Lightning/McQueen (jk, he/him).
 - ⚡ Fun fact: I enjoy flight sims? (idk what to put here).
 
 <!---
