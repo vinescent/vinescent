@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vinescent
-- 👀 I’m interested in DCS.
+- 👀 I’m interested in ricing (customizing my desktop).
 - 🌱 I’m currently learning Arch Linux w/ Hyprland.
 - 💞️ I’m not looking to collaborate on anything yet.
 - 📫 How to reach me: jshaurya21@gmail.com (expect a reply within 2 days, or 2 weeks).
